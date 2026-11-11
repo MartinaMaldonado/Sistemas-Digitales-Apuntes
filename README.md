@@ -6,9 +6,9 @@ Repositorio con los apuntes, resúmenes y material de estudio de la materia de *
 
 ## Estructura del Repositorio
 
-* **[Unidad 1: Microcontroladores para sistemas embebidos](./Unidad%201)** - *(Disponible)*
-* **[Unidad 2: Introducción a los sistemas operativos de tiempo real (RTOS) en sistemas embebidos](./Unidad%202)** - *(Próximamente)*
-* **[Unidad 3: Introducción a M2M y sus aplicaciones en sistemas embebidos](./Unidad%203)** - *(Próximamente)*
+* **[Unidad 1: Microcontroladores para sistemas embebidos](./Unidad%201)** 
+* **[Unidad 2: Introducción a los sistemas operativos de tiempo real (RTOS) en sistemas embebidos](./Unidad%202)** 
+* **[Unidad 3: Introducción a M2M y sus aplicaciones en sistemas embebidos](./Unidad%203)** 
 
 ---
 
